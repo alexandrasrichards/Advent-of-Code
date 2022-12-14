@@ -35,7 +35,7 @@ while(no_space == FALSE){
     snow = data.frame(row = 0, col = 500)
     stopped = FALSE
     while(stopped == FALSE){
-        print(snow)
+        #print(snow)
         if(cave[snow$row+1, snow$col] == "."){
             snow$row = snow$row + 1
         } else {
