@@ -1,7 +1,7 @@
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
-/rmd/template.rmd
-.txt
-.csv
+*.Rproj.user
+*.Rhistory
+*.RData
+*.Ruserdata
+*/rmd/template.rmd
+*.txt
+*.csv
