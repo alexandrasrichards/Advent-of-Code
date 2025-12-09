@@ -5,3 +5,4 @@
 */rmd/template.rmd
 *.txt
 *.csv
+*/data/*
